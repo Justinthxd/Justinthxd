@@ -1,3 +1,1 @@
-I'm justin, software developer/mobile developer. Welcome to the dark side.
-
-Contact me: justinthxd@gmail.com
+[README.md](https://github.com/Justinthxd/Justinthxd/files/8020736/README.md)
