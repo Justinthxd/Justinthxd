@@ -8,6 +8,7 @@ I'm justin, software developer/mobile developer. Welcome to the dark side.
 - Flutter
 - Dart
 - Firebase
+- React
 - Python
 - C++
 - C#
